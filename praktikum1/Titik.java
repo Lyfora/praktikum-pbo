@@ -1,7 +1,7 @@
 public class Titik {
     double absis;
     double ordinat;
-    static double CounterTitik;
+    static int CounterTitik;
 
     Titik(){
         CounterTitik = CounterTitik+1;
@@ -11,7 +11,7 @@ public class Titik {
         ordinat = o;
         CounterTitik = CounterTitik+1;
     }
-    static double getCounterTitik(){
+    static int getCounterTitik(){
         return CounterTitik;
     }
 

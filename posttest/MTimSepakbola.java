@@ -23,6 +23,6 @@ class MTimSepakbola {
         }
 
         // TODO: call endTandingBola()
-        liverpool.endTandingBola(MU);
+        MU.endTandingBola(liverpool);
     }
 }

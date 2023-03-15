@@ -19,7 +19,7 @@ class MTimSepakbola {
 
             // TODO: Replace [SKOR LIVERPOOL] and [SKOR MANCHESTERUNITED] with the correct METHOD
             // Code below should produce the output "Skor sementara: Liverpool 7 - 0 Manchester United"
-            System.out.println("Skor sementara: " + liverpool.nama + " " + liverpool.skor + " - " + MU.skor + " " + MU.nama);
+            System.out.println("Skor sementara: " + liverpool.nama + " " + liverpool.getSkor() + " - " + MU.getSkor() + " " + MU.nama);
         }
 
         // TODO: call endTandingBola()

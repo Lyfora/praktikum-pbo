@@ -78,7 +78,7 @@ class TimSepakbola {
 
     // TODO: Implement setIsOnMatch() method. This is a mutator to set a new boolean value for isOnMatch
     void setIsOnMatch(boolean onMatch) {
-        this.isOnMatch = true;
+        this.isOnMatch = onMatch;
     }
 
     // TODO: Fix the method below. This method below is quite similar with startTandingBola()

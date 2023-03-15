@@ -72,8 +72,7 @@ class TimSepakbola {
             return 0;
         }
         else{
-            System.out.println(this.nama + "memiliki skor" + this.skor);
-            return 0;
+            return this.skor;
         }
     }
 

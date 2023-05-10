@@ -1,4 +1,6 @@
-
+//        File : pegawai.java  09/05/2023
+//        Penulias : Axelliano Rafael Situmeang / 24060121130089
+//        Deskripsi : superclass pegawai
 
 public class Pegawai{
     protected String nama;

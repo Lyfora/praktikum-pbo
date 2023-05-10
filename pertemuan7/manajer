@@ -1,3 +1,6 @@
+//        File : pegawai.java  09/05/2023
+//        Penulias : Axelliano Rafael Situmeang / 24060121130089
+//        Deskripsi : subclass manajer
 
 public class Manajer extends Pegawai{
     protected int tunjangan = 700000;
